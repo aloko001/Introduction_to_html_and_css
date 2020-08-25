@@ -1,0 +1,19 @@
+Fix the problems in the html code below
+
+<!DOCTYPE html>
+<html>
+<body style="color:red">
+
+h3>This is an heading<h3>
+<h5This is another heading</h5
+
+<p>Am learning how to b>code<b> using HTML</p>
+<p syle="colorred">Am also using the style attribute to style my tags in html</p>
+<p><sb>This is subscript text<sub></p>
+
+<p>A <ark>marked<mark> text</p>
+
+<p>You can click on <a hef="https://www.github.com">github<a> to view my repositories</p>
+
+</body>
+</html>
