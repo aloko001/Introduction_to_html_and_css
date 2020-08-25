@@ -1,0 +1,7 @@
+Answer the following questions
+
+1. What is the full meaning of HTML?
+2. What does the <p> tag does in HTML?
+3. what is the correct closing tag for a link tag in html?
+4. What is the correct closing tag for the most heading tag in html?
+5. Write the correct opening and closing tag for a body and add a background color RED to the style?
